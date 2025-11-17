@@ -1,1 +1,1 @@
-# -mephi-python-for-data-analysis-pj
+# Python для анализа данных
